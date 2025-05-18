@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: #6eb5aa;
+}
+.title{
+    background: #3d7475;
+    text-align: center;
+    padding: 16px;
+}
+.recipe-list{
+    background-color: #819a78;
+    padding: 25px;
+}
+.recipe-link{
+    background-color: #88af95;
+    padding: 10px;
+}
+img{
+    display: block;
+    margin: 20px auto;
+}
+.description{
+    text-align: center;
+}
+.sub-title{
+    text-align: center;
+}
+.under-sub-title{
+    display: block;
+    margin: 0 auto;
+    width: fit-content;
+    text-align: left;
+}
